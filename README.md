@@ -1,5 +1,5 @@
 # Tribute-Page
-This webpage is a single site webpage meant to show improvement of my own web development skills and technique. 
+The purpose of this webpage is to demonstrate my knowledge and ability to use HTML and CSS to create a structured webpage. It is mainly for my own personal intrest to monitor mu progress in web development.
 
-Tribute Page project built while working through https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-tribute-page 
+Project: https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-tribute-page 
 
